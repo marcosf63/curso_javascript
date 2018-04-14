@@ -1,0 +1,27 @@
+
+{
+  "nome": “Marcos”,
+  "e-mail": “marcos@servidor.com”,
+  "disciplinas": [ 'BD2', 'Grafos'],
+  "telefones" : ['88-3333-4444', '88-98888-7777']
+}
+
+{
+  "nome": “Victor”,
+  "e-mail": “victor@servidor.com”,
+  "disciplinas": [ 'BD2'],
+  "enderecos": [
+      {
+         "endereco": 'Rua 1, casa 2',
+         "bairro": 'Centro',
+         "cidade": 'Sobral',
+         "tipo": 'Residencial'
+      },
+      {
+         "endereco": 'Rua 2, casa 5',
+         "bairro": 'Centro',
+         "cidade": 'Sobral',
+         "tipo": 'Comercial'
+       }
+   ]
+}
