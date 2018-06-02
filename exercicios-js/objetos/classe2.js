@@ -1,5 +1,5 @@
 class Avo {
-  constuctor(sobrenome) {
+  constructor(sobrenome) {
     this.sobrenome = sobrenome
   }
 }
